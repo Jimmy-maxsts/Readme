@@ -6,7 +6,7 @@ ivekit 을 핸들링 하기위한 중계서버
 ## Installation
 
 ```bash
-$ npm install
+$ yarn install
 ```
 
 ## Docker-compose
@@ -27,3 +27,8 @@ $ yarn start:alpha
 # beta
 $ yarn start:beta
 ```
+
+## Swagger uri
+
+- https://alpha-api.maxverse.io/media/api
+
